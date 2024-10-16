@@ -1,4 +1,4 @@
 select 
 *
 from actors
-where actor_name = 'Tom Cruise'
+where actor_name like 'Tom %'
